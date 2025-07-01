@@ -15,4 +15,4 @@ This project implements a complete CI/CD pipeline using the following tools:
 
 ### 📌 CI/CD Architecture Diagram
 
-![CI/CD Pipeline](./cicd-pipeline.png)
+![CI/CD Pipeline](cicd-pipeline%20.png)
